@@ -41,7 +41,7 @@ movie-review-sentiment-bow/
 ## How to Run
 
 ```bash id="k8v2lm"
-git clone your-repo-link
+git clone https://github.com/poojary-nikesh1612/movie-review-sentiment-bow.git
 cd movie-review-sentiment-bow
 
 pip install -r requirements.txt
